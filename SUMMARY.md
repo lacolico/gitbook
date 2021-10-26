@@ -1,11 +1,13 @@
 # Table of contents
 
+* [설치파일 링크](README.md)
+
 ## 프로그램 설치 가이드
 
-* [Node JS](README.md)
-* [Git](undefined/git.md)
-* [MySQL Workbench](undefined/mysql-workbench.md)
-* [VS Code](undefined/vs-code.md)
+* [Node JS](undefined-1/node-js.md)
+* [Git](undefined-1/git.md)
+* [MySQL Workbench](undefined-1/mysql-workbench.md)
+* [VS Code](undefined-1/vs-code.md)
 
 ## VS Code 확장 프로그램 가이드
 
