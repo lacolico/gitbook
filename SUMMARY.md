@@ -15,22 +15,25 @@
 
 * [Host 파일 설정](undefined-1/host.md)
 * [GitLab 회원가입](undefined-1/gitlab.md)
+* [Project 폴더 다운로드](undefined-1/project.md)
 
 ## MySQL 서버 연결 가이드
 
 * [Workbench Mysql 서버 등록](mysql/workbench-mysql.md)
-
-## VS Code 확장 프로그램 가이드
-
-* [GitLens](vs-code/gitlens.md)
-* [Chrome Debugger](vs-code/chrome-debugger.md)
-* [ES7 React](vs-code/es7-react.md)
-* [ESLint](vs-code/eslint.md)
-* [Auto Close Tag](vs-code/auto-close-tag.md)
-* [VS Code-Icons](vs-code/vs-code-icons.md)
 
 ## GitLab 연결 가이드
 
 * [ATS\_API 내려받기](gitlab/ats\_api.md)
 * [ATS\_WEB 내려받기](gitlab/ats\_web.md)
 * [GitLab Push](gitlab/gitlab-push.md)
+
+## VS Code 확장 프로그램 가이드
+
+* [Extension 설치](vs-code/extension.md)
+* [Extension 설명](vs-code/extension-1/README.md)
+  * [GitLens](vs-code/extension-1/gitlens.md)
+  * [Chrome Debugger](vs-code/extension-1/chrome-debugger.md)
+  * [ES7 React](vs-code/extension-1/es7-react.md)
+  * [ESLint](vs-code/extension-1/eslint.md)
+  * [Auto Close Tag](vs-code/extension-1/auto-close-tag.md)
+  * [VS Code-Icons](vs-code/extension-1/vs-code-icons.md)

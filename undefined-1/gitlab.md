@@ -6,6 +6,8 @@ description: GitLab 회원가입 및 권한신청
 
 #### 1. 웹 브라우저 주소에 "http://gitlab.ats.com:9000" 입력 후 접속&#x20;
 
+{% embed url="http://gitlab.ats.com:9000" %}
+
 ![](../.gitbook/assets/gr\_01.png)
 
 #### 2. "Register now" 클릭&#x20;
@@ -16,7 +18,7 @@ description: GitLab 회원가입 및 권한신청
 
 ![](../.gitbook/assets/gr\_03.png)
 
-#### 4. 관리자에게 계정 권한 및 프로젝트 접근 권 등록 요청 &#x20;
+#### 4. 관리자에게 계정 권한 및 프로젝트 접근 권한 등록 요청 &#x20;
 
 ![](../.gitbook/assets/여기서\_잠깐.jpg)
 
