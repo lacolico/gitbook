@@ -11,6 +11,11 @@
 * [MySQL Workbench](undefined/mysql-workbench.md)
 * [VS Code](undefined/vs-code.md)
 
+## 사전 작업 가이드
+
+* [Host 파일 설정](undefined-1/host.md)
+* [GitLab 회원가입](undefined-1/gitlab.md)
+
 ## MySQL 서버 연결 가이드
 
 * [Workbench Mysql 서버 등록](mysql/workbench-mysql.md)
@@ -26,7 +31,6 @@
 
 ## GitLab 연결 가이드
 
-* [Host 설정](gitlab/host.md)
 * [ATS\_API 내려받기](gitlab/ats\_api.md)
 * [ATS\_WEB 내려받기](gitlab/ats\_web.md)
 * [GitLab Push](gitlab/gitlab-push.md)
