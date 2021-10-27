@@ -4,6 +4,10 @@ description: Git 설치 가이드
 
 # Git
 
+#### 0. "02. Developer" 폴더에 "Git-2.33.1-64-bit.exe" 실행&#x20;
+
+![](../.gitbook/assets/down\_03.png)
+
 #### &#x20;1. Next 버튼 클릭&#x20;
 
 ![](../.gitbook/assets/g\_01.png)

@@ -1,13 +1,19 @@
 # Table of contents
 
-* [설치파일 링크](README.md)
+## ATS 개발자용 가이드 <a href="ats-guide-dev" id="ats-guide-dev"></a>
+
+* [설치 프로그램 다운로드](README.md)
 
 ## 프로그램 설치 가이드
 
-* [Node JS](undefined-1/node-js.md)
-* [Git](undefined-1/git.md)
-* [MySQL Workbench](undefined-1/mysql-workbench.md)
-* [VS Code](undefined-1/vs-code.md)
+* [Node JS](undefined/node-js.md)
+* [Git](undefined/git.md)
+* [MySQL Workbench](undefined/mysql-workbench.md)
+* [VS Code](undefined/vs-code.md)
+
+## MySQL 서버 연결 가이드
+
+* [Workbench Mysql 서버 등록](mysql/workbench-mysql.md)
 
 ## VS Code 확장 프로그램 가이드
 

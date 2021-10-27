@@ -4,6 +4,10 @@ description: Visual Studio Code 설치 가이드
 
 # VS Code
 
+#### 0. "02. Developer" 폴더에서 "VSCodeUserSetup-x64-1.61.1.exe" 실행  &#x20;
+
+![](../.gitbook/assets/down\_05.png)
+
 #### 1. 동의합니다(A) 체크, 다음 버튼 클릭&#x20;
 
 ![](../.gitbook/assets/vsc\_01.png)
