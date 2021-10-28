@@ -30,10 +30,15 @@
 ## VS Code 확장 프로그램 가이드
 
 * [Extension 설치](vs-code/extension.md)
-* [Extension 설명](vs-code/extension-1/README.md)
+* [Extension 설정](vs-code/extension-1/README.md)
   * [GitLens](vs-code/extension-1/gitlens.md)
   * [Chrome Debugger](vs-code/extension-1/chrome-debugger.md)
   * [ES7 React](vs-code/extension-1/es7-react.md)
   * [ESLint](vs-code/extension-1/eslint.md)
   * [Auto Close Tag](vs-code/extension-1/auto-close-tag.md)
   * [VS Code-Icons](vs-code/extension-1/vs-code-icons.md)
+  * [Prettier](vs-code/extension-1/prettier.md)
+
+## Insomnia 가이드
+
+* [Insomnia 설정](insomnia/insomnia.md)

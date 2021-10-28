@@ -1,6 +1,6 @@
 ---
-description: VS Code 확장 프로그램 설명
+description: VS Code 확장 프로그램 설정
 ---
 
-# Extension 설명
+# Extension 설정
 
