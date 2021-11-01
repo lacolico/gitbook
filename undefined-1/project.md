@@ -10,7 +10,7 @@ description: GitLab에서 프로젝트 폴더 다운 후 C 드라이브에 압�
 
 ![](../.gitbook/assets/kats\_01.png)
 
-#### 2. "Download" 버튼 클릭 --> "Clone" 버튼 클릭 --> "zip" 버튼 클릭 &#x20;
+#### 2. "Download" 버튼 클릭 --> "zip" 버튼 클릭 &#x20;
 
 ![](<../.gitbook/assets/vsp\_02 (1).png>)
 

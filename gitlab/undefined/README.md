@@ -16,7 +16,7 @@ description: 자동으로 권한이 있는 모든 프로젝트 내려받기
 
 ![](../../.gitbook/assets/auto\_03.png)
 
-#### 4. 회원 가입한 GitLab 계의 Username 입력&#x20;
+#### 4. 회원 가입한 GitLab 계정의 Username 입력&#x20;
 
 ![](../../.gitbook/assets/auto\_04.png)
 
