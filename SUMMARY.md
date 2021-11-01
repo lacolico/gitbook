@@ -23,8 +23,9 @@
 
 ## GitLab 연결 가이드
 
-* [ATS\_API 내려받기](gitlab/ats\_api.md)
-* [ATS\_WEB 내려받기](gitlab/ats\_web.md)
+* [권한이 있는 프로젝트 모두받기](gitlab/undefined/README.md)
+  * [ATS\_API 수동설치](gitlab/undefined/ats\_api.md)
+  * [ATS\_WEB 수동설치](gitlab/undefined/ats\_web.md)
 * [GitLab Push](gitlab/gitlab-push.md)
 
 ## VS Code 확장 프로그램 가이드

@@ -4,11 +4,11 @@ description: GitLab에서 프로젝트 폴더 다운 후 C 드라이브에 압�
 
 # Project 폴더 다운로드
 
-#### 1. 웹 브라우저 주소에 "http://gitlab.ats.com:9000/root/ats\_project.git" 입력 후 접속&#x20;
+#### 1. 웹 브라우저 주소에 "http://gitlab.ats.com:9000/koreaats/ats\_project.git" 입력 후 접속&#x20;
 
-{% embed url="http://gitlab.ats.com:9000/root/ats_project.git" %}
+{% embed url="http://gitlab.ats.com:9000/koreaats/ats_project.git" %}
 
-![](../.gitbook/assets/vsp\_01.png)
+![](../.gitbook/assets/kats\_01.png)
 
 #### 2. "Download" 버튼 클릭 --> "Clone" 버튼 클릭 --> "zip" 버튼 클릭 &#x20;
 
